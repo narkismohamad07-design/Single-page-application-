@@ -1,4 +1,4 @@
-[27/10, 12:52 pm] BARATH: # Single Application
+ # Single Application
 
 A concise, single-page application built using core web technologies. This project demonstrates a straightforward approach to building interactive and responsive web experiences without relying on large frameworks.
 
