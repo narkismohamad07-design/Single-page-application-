@@ -21,7 +21,7 @@ Since this is a client-side application using only HTML, CSS, and JavaScript, no
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/narkismohamad07-design/Single-page-application-.git
 cd single-application
 [27/10, 12:52 pm] BARATH: 2. Run the application
 Simply open the main file, usually index.html, in your web browser.
